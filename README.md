@@ -2,9 +2,9 @@
 
 ## 🚀 Data Scientist focusing on AI Trends 📈.
 
-📍 **India** 🇮🇳
+📍 **India** 🇮🇳  
 📧 **Email:** [deepdoshicareers@gmail.com](mailto:deepdoshicareers@gmail.com)  
-🔗 **LinkedIn:** [deepbdoshi](https://www.linkedin.com/in/deepbdoshi/)
+🔗 **LinkedIn:** [deepbdoshi](https://www.linkedin.com/in/deepbdoshi/)  
 👨‍💻 **GitHub:** [deepbdoshi](https://github.com/deepbdoshi)
 
 
